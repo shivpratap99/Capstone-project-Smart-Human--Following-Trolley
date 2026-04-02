@@ -8,6 +8,8 @@ The system maintains an optimal following distance by adjusting the motor speed 
 This project demonstrates the integration of embedded systems, sensor-based navigation, and motor control to create a simple yet effective autonomous robotic system. Such a system can be useful in applications where hands-free transportation is needed.
 
 Key Features:
+  
+  
   Automatic human-following behavior
   Distance-based speed adjustment
   Left and right directional tracking
