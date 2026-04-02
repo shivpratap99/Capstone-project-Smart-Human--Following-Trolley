@@ -10,36 +10,36 @@ This project demonstrates the integration of embedded systems, sensor-based navi
 Key Features:
   
   
-  Automatic human-following behavior
+    Automatic human-following behavior
   
-  Distance-based speed adjustment
+    Distance-based speed adjustment
   
-  Left and right directional tracking
+    Left and right directional tracking
   
-  Smooth motor control using PWM
+    Smooth motor control using PWM
   
-  Simple and efficient Arduino-based design
+    Simple and efficient Arduino-based design
 
 
 Technologies Used:
 
-  Arduino Uno
+    Arduino Uno
   
-  HC-SR04 Ultrasonic Sensors
+     HC-SR04 Ultrasonic Sensors
   
-  L298N Motor Driver
+    L298N Motor Driver
   
-  DC Motors
+    DC Motors
   
-  C / Arduino Programming
+    C / Arduino Programming
 
   
 Applications:
 
-  Smart shopping trolley
+    Smart shopping trolley
   
-  Luggage carrying robot
+    Luggage carrying robot
   
-  Warehouse assistance robot
+    Warehouse assistance robot
   
-  Autonomous service trolley
+    Autonomous service trolley
