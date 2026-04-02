@@ -22,15 +22,24 @@ Key Features:
 
 
 Technologies Used:
+
   Arduino Uno
+  
   HC-SR04 Ultrasonic Sensors
+  
   L298N Motor Driver
+  
   DC Motors
+  
   C / Arduino Programming
 
   
 Applications:
+
   Smart shopping trolley
+  
   Luggage carrying robot
+  
   Warehouse assistance robot
+  
   Autonomous service trolley
