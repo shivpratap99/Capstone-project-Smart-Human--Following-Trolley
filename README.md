@@ -11,9 +11,13 @@ Key Features:
   
   
   Automatic human-following behavior
+  
   Distance-based speed adjustment
+  
   Left and right directional tracking
+  
   Smooth motor control using PWM
+  
   Simple and efficient Arduino-based design
 
 
